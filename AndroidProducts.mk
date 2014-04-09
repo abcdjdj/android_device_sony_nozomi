@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_nozomi.mk
+    $(LOCAL_DIR)/elohim_nozomi.mk
